@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lngkzy.com</id>
     <title>==高考研究院==</title>
-    <updated>2021-09-03T07:11:45.975Z</updated>
+    <updated>2021-09-28T06:36:01.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lngkzy.com"/>
     <link rel="self" href="https://lngkzy.com/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://lngkzy.com/images/avatar.png</logo>
     <icon>https://lngkzy.com/favicon.ico</icon>
     <rights>All rights reserved 2021, ==高考研究院==</rights>
+    <entry>
+        <title type="html"><![CDATA[高考体检对于志愿填报的影响]]></title>
+        <id>https://lngkzy.com/post/gao-kao-ti-jian-dui-yu-zhi-yuan-tian-bao-de-ying-xiang/</id>
+        <link href="https://lngkzy.com/post/gao-kao-ti-jian-dui-yu-zhi-yuan-tian-bao-de-ying-xiang/">
+        </link>
+        <updated>2021-09-28T06:19:57.000Z</updated>
+        <content type="html"><![CDATA[<p>      众所周知高考体检是每名高考生必须参与的，体检结果将作为考生档案的一部分，会供高校录取时查阅，体检项包括眼科、外科、内科、耳鼻喉科、口腔科、放射、检验等。在高考志愿填报中，家长和考生往往会把全部注意力集中于分数、位次、院校、专业、地域等，会非常容易忽略高考体检结果对志愿填报的影响。一般只有报考特殊类型招生的家庭，才会刻意去关注体检结果，作为绝大部分报考普通本科批次的考生，往往把体检结果作为了忽略项，甚至有些高中不会将高考体检表发给考生。<br>
+      如果考生不知晓自己的体检结果，一旦某项检查结果有异常，而自己在不知情的情况下，没有合理的调整志愿填报表，结果会误己误人误高校，这并不是危言耸听，我们先了解一下高考投档的流程，考生档案状态一般有七种，自由可投、已经投档、院校在阅、预录取（或预退档）、录取待审、录取，在流程上我们可以看到，考生档案是先投入高校，高校再查阅考生的电子档案，而辽宁省采取的是平行志愿的投档模式，也就是一次投档，考生档案在分数过线的情况下直接投入高校，高校在查阅后，如发现所报专业的体检要求与考生实际情况不符，那考生档案将被退档，对于考生来说将落入下一个批次，对于高校来说该批次空出了一个计划，对于其他分数较低但体检条件符合的考生来说可能会与该高校失之交臂。<br>
+      我们以2021年辽宁省高考物理学科类录取举例，在第一次“征集志愿”剩余计划统计表中，就出现了几个情理之中意料之外的剩余计划，辽宁石油化工大学的过程装备与控制工程专业、大连交通大学的环境工程专业、西南交通大学的制药工程专业，这三个专业均剩余1个计划，对于再选科目是不限和化学或生物，也就是说可报考的考生会非常多，作为公办高校自然也是填报首选，那为什么会出现在一次征集剩余中呢？我们可以翻阅一下《普通高等学校招生体检工作指导意见》（教学〔2003〕3号）文件，在这里就可以找到答案，在文件中“患有下列疾病者，学校有关专业可不予录取”，其中“轻度色觉异常（俗称色弱）不能录取的专业”就包括了过程装备与控制工程、环境工程、化工与制药类（含制药工程），也就是说投档的三名考生在一次征集中因为体检结果的疏忽，又再次被退档，我想对于考生和家长来说内心的煎熬是极为痛苦的，而同样不予录取的专业还包括药学类、医学类、食品科学与工程、农学、园艺、材料化学、环境工程、学前教育、特殊教育、体育教育、运动训练等热门专业。<br>
+      所以高考志愿填报是一项需要极度细致的工作，在各类报考软件不完善的情况下，仅靠冰冷的数据是无法为考生的分数产生量变的温度，平行志愿一次投档，做全面而谨慎的准备，才能帮助孩子赢在志愿填报。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[辽宁省普通高考各批次包含的特殊招生计划]]></title>
         <id>https://lngkzy.com/post/liao-ning-sheng-pu-tong-gao-kao-ge-pi-ci-bao-han-de-te-shu-zhao-sheng-ji-hua/</id>
@@ -30,12 +42,12 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[普通高考体检结果对专业选择的影响]]></title>
-        <id>https://lngkzy.com/post/pu-tong-gao-kao-ti-jian-jie-guo-dui-zhuan-ye-xuan-ze-de-ying-xiang/</id>
-        <link href="https://lngkzy.com/post/pu-tong-gao-kao-ti-jian-jie-guo-dui-zhuan-ye-xuan-ze-de-ying-xiang/">
+        <title type="html"><![CDATA[《普通高等学校招生体检工作指导意见》]]></title>
+        <id>https://lngkzy.com/post/lesslesspu-tong-gao-deng-xue-xiao-zhao-sheng-ti-jian-gong-zuo-zhi-dao-yi-jian-greatergreater/</id>
+        <link href="https://lngkzy.com/post/lesslesspu-tong-gao-deng-xue-xiao-zhao-sheng-ti-jian-gong-zuo-zhi-dao-yi-jian-greatergreater/">
         </link>
         <updated>2021-09-03T06:36:09.000Z</updated>
-        <content type="html"><![CDATA[<p>根据《普通高等学校招生体检工作指导意见》教学〔2003〕3号文件，部分专业录取受普通高考体检结果影响，莫名其妙的退档而误己误人。</p>
+        <content type="html"><![CDATA[<p>《普通高等学校招生体检工作指导意见》（教学〔2003〕3号）</p>
 <p>一、患有下列疾病者，学校可以不予录取<br>
 1、严重心脏病（先天性心脏病经手术治愈，或房室间隔缺损分流量少，动脉导管未闭返流血量少，经二级以上医院专科检查确定无需手术者除外）、心肌病、高血压病。<br>
 2、重症支气管扩张、哮喘，恶性肿瘤、慢性肾炎、尿毒症。<br>
